@@ -123,6 +123,9 @@ header {
 
 /* photos */
 
+.photo1-1 {
+  overflow: hidden;
+}
 
 .photo1 {
   max-width: 100%;
@@ -482,6 +485,9 @@ footer {
     text-align: left;
     justify-content: start;
     width: 281px;
+  }
+  .photos {
+    overflow: hidden;
   }
 
 }
